@@ -1,4 +1,4 @@
-# M1_torch_tf_GPU_usage
+# How to use mac M1 chip with GPU to do the deep learning of tensorflow and pytorch ?
 
 Hello, reader! It was nice to see you here (a special occasion, right?)
 In this repository, I would like to share how to use the GPU or MPS of M1 chip on the macbook with you to do the deep learning with tensorflow and pytorch libraries, which would be useful for the native debugging (I strongly recommended that Big Data training should take place on remote effective servers)
