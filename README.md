@@ -10,7 +10,7 @@ You could just click this link: https://www.anaconda.com/download
 and selct your choice (We need to select Download for mac (M1/M2) and install it. (Click OK and Next were totally enough for anaconda installation.
 
 
-conda create -n gpu_torch python=3.9
+'''conda create -n gpu_torch python=3.9
 conda create -n gpu_tf python=3.9
 conda activate gpu_tf
 
@@ -27,7 +27,7 @@ python
 conda activate gpu_torch
 pip install jupyter notebook 
 pip install https://download.pytorch.org/whl/cpu/torch-2.0.0-cp39-none-macosx_11_0_arm64.whl
-pip install https://download.pytorch.org/whl/cpu/torchvision-0.15.1-cp39-cp39-macosx_11_0_arm64.whl
+pip install https://download.pytorch.org/whl/cpu/torchvision-0.15.1-cp39-cp39-macosx_11_0_arm64.whl'''
 
 
 
